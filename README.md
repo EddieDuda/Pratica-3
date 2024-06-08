@@ -1,10 +1,12 @@
 # Pratica 3
 Melhorias Implementadas
+
 Algoritmo de Busca em Largura (BFS)
 
 Para garantir que o menor caminho entre duas casas no condomínio seja encontrado corretamente, coloquei o Algoritmo de Busca em Largura no método FindPath da classe Pathfinder. Isso garante a menor distância entre as casas.
 
 MapController
+
 Modifiquei a classe MapController para melhorar a interação do usuário e a visualização do caminho encontrado:
 
     Manipulação de Seleção de Nós:
