@@ -1,0 +1,4 @@
+repository "Pratica 3@DudaSeeker@cloud"
+  path "/"
+    br "/main"
+    co "/main"
